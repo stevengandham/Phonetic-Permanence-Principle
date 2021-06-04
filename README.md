@@ -18,6 +18,7 @@ There are 3 rules:
 
 1) Pre-Superscript/Superscript formats are used for letters that are included in the spelling but are silent in pronunciations. (Pre-Superscripts are used prior to a base letter, s.t. no letters precede it; they usually indicate the beginning of a word where the first letter is silent).
 
+# subscripts will not be implemented until multiple pronunciations are added to dictionary per word
 2) Subscript formats are used for letters that are in the general spelling of the word, but are not necessarily enunciated. This is used for words s.t. there are two or more pronunciations.
 
 3) Capital letter formats are used for letters in a word that are enunciated as they are pronounced in the alphabet as a standalone letter.
